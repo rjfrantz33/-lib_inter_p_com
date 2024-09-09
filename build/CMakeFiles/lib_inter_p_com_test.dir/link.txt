@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/lib_inter_p_com_test.dir/test/shared_memory_test.cpp.o CMakeFiles/lib_inter_p_com_test.dir/test/image_test.cpp.o CMakeFiles/lib_inter_p_com_test.dir/src/shared_memory.cpp.o -o lib_inter_p_com_test  lib/libgtestd.a lib/libgtest_maind.a liblib_inter_p_com.a -lrt lib/libgtestd.a -lpthread 
